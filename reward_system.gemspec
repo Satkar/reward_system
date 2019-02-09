@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-  s.name        = 'rewardsystem'
-  s.version     = '0.0.0'
+  s.name        = 'reward_system'
+  s.version     = '0.0.1'
   s.date        = '2019-02-09'
-  s.summary     = "rewardsystem"
+  s.summary     = "reward_system"
   s.description = "Reward System gem"
   s.authors     = ["Satkar Rangole"]
   s.email       = 'sansat1387@gmail.com'
-  s.files       = ["lib/node.rb", "lib/reward_system.rb", ""lib/tree.rb"]
-  s.license       = 'MIT'
+  s.files       = ["lib/node.rb", "lib/operation.rb", "lib/tree.rb"]
+  s.license       = ''
 end
