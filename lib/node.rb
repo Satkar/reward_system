@@ -1,3 +1,6 @@
+# This module basically handles following operations
+# 1. Creating a new node
+# 2. Update a node
 module RewardSystem
   class Node
     attr_accessor :value, :ancestor, :offer_accepted, :referal_bonus

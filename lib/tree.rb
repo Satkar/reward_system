@@ -1,5 +1,10 @@
 require './lib//node.rb'
 
+# This module basically handles following operations
+# 1. Creating a new Tree structue
+# 2. Insert new node to the tree
+# 3. Search a node in a tree
+# 4. Update a node of a tree
 module RewardSystem
   class Tree
 
